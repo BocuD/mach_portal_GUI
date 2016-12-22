@@ -1,3 +1,5 @@
+Since @qwertyoruiop made a public jailbreak i won't be working on this anymore. You can find it here: https://yalu.qwertyoruiop.com
+
 # mach_portal_GUI
 A GUI for the mach_portal exploit by Ian Beer, with support for every iOS device.
 
